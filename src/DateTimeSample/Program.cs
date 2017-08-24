@@ -8,7 +8,7 @@ namespace DateTimeSample
         /*
             static 屬性會在第一次呼叫時進行初始化
 
-            TimePicker.static_time 儲存的時間點會
+            TimePicker.static_time 儲存的時間點會位於
                 第一次呼叫的時候 or 初始化 TimePicker 物件
 
             重新初始化物件時
